@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Inventory App</string>
+
+    <!--<string name="hello">Hello World, Todo!</string>-->
+    <string name="no_products">This is an empty inventory. Add a new product, click insert!</string>
+    <!--<string name="menu_insert">Add Item</string>-->
+    <!--<string name="todo_summary">Summary</string>-->
+    <!--<string name="todo_description">Delete Todo</string>-->
+    <string name="product_edit_name">(Enter Name)</string>
+    <string name="product_edit_price">(Enter Price)</string>
+    <string name="product_edit_vendor">(Enter Phone)</string>
+    <!--<string name="todo_edit_description">Description</string>-->
+    <string name="toast_bad_phone">Unable to make call. Please enter a valid vendor phone number.</string>
+    <string name="toast_no_name">Unable to save product.  Please enter a product name</string>
+    <string name="toast_no_price">Unable to save product.  Please enter a product price</string>
+    <string name="intent_select">"Select Picture"</string>
+    <string name="symbol_plus">+</string>
+    <string name="symbol_minus">-</string>
+    <string name="detail_received">Total Received</string>
+    <string name="detail_sold">Total Sold</string>
+    <string name="detail_stock">Current Stock: </string>
+    <string name="detail_price">Price: </string>
+    <string name="detail_vendor">Vendor phone: </string>
+    <string name="button_order">Order</string>
+    <string name="button_save">Save</string>
+    <string name="button_delete">Delete</string>
+    <string name="button_sale">Sale</string>
+    <string name="row_price">Price: \t</string>
+    <string name="row_sold">Sold: \t</string>
+    <string name="row_stock">Stock: \t</string>
+
+</resources>
